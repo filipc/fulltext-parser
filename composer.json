@@ -1,0 +1,8 @@
+{
+    "name": "filipc/linkparser",
+    "description": "Link Parser",
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
+
